@@ -1,0 +1,2 @@
+[2026-09-02 13:20:16] ALERT: TCS.NS reached ₹2342.90 (Target: ₹2300)
+[2026-09-02 13:21:35] ALERT: INFY.NS reached ₹1133.40 (Target: ₹1000)
